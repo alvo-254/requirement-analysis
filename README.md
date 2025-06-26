@@ -40,4 +40,37 @@ Well-defined requirements allow for more accurate estimates of time, cost, and r
 3️⃣ Enhances Product Quality and User Satisfaction
 When the desired features, behaviors, and constraints are documented thoroughly, designers and developers can build a product that meets real user needs. Clear requirements also help testers create precise test cases, ensuring that the final product matches the business goals and user expectations — resulting in higher quality and greater customer satisfaction.
 
+####Key Activities in Requirement Analysis
+
+Requirement Gathering
+
+Involves collecting information about the desired system from all relevant sources — stakeholders, clients, end-users, and domain experts.
+
+Techniques like interviews, surveys, observations, and workshops help capture what the system is supposed to do.
+
+Requirement Elicitation
+
+Focuses on facilitating communication between the project team and stakeholders to draw out deeper, often implicit, needs.
+
+Tools like use case scenarios, brainstorming sessions, and prototyping can help uncover requirements that stakeholders may not have articulated initially.
+
+Requirement Documentation
+
+Once gathered, requirements are clearly and systematically documented in forms such as Software Requirement Specifications (SRS), use cases, or user stories.
+
+This ensures that all requirements are accessible, traceable, and verifiable throughout the SDLC.
+
+Requirement Analysis and Modeling
+
+Examines the requirements to check for feasibility, conflicts, or inconsistencies and organizes them into logical groupings.
+
+Visual models like data flow diagrams, entity-relationship diagrams, or use case diagrams can help illustrate system processes and interactions.
+
+Requirement Validation
+
+Involves verifying that the documented requirements align with stakeholder needs and are technically and economically feasible.
+
+Formal reviews, walkthroughs, and sign-off processes help confirm that the requirements will lead to a successful final product.
+
+
 
