@@ -72,5 +72,36 @@ Involves verifying that the documented requirements align with stakeholder needs
 
 Formal reviews, walkthroughs, and sign-off processes help confirm that the requirements will lead to a successful final product.
 
+#####Types of Requirements
+ Subsection 5.1
+Functional Requirements
+Functional requirements describe the specific features and behaviors that the booking management system must support. They define what the system must do to meet business and user goals.
+
+Examples for the booking management project:
+
+The system shall allow customers to search for available rooms by date, room type, and capacity.
+
+The system shall enable customers to make, view, modify, and cancel bookings online.
+
+The system shall send a booking confirmation email with booking details once a reservation is successful.
+
+The system shall allow administrators to add, update, or remove rooms and manage pricing.
+
+The system shall generate booking reports for each day and allow them to be exported as PDF or CSV.
 
 
+  Subsection 5.2
+Non-functional Requirements
+Non-functional requirements describe how the system performs its tasks, specifying the overall qualities like performance, security, and usability that contribute to a good user experience.
+
+Examples for the booking management project:
+
+The system shall process and confirm booking transactions within 2 seconds under a typical load of 100 concurrent users.
+
+The system shall use secure encryption (e.g., SSL/TLS) to protect all customer data and transactions.
+
+The user interface shall be responsive and accessible on desktops, tablets, and mobile phones.
+
+The system shall maintain 99.9% uptime to ensure availability for customers at all times.
+
+The system shall comply with applicable privacy and data protection laws (e.g. GDPR) to protect user data.
