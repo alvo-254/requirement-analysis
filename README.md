@@ -107,3 +107,24 @@ The system shall maintain 99.9% uptime to ensure availability for customers at a
 The system shall comply with applicable privacy and data protection laws (e.g. GDPR) to protect user data.
 
 ![Descriptive text for the image](alx-booking-uc.png)
+
+######Acceptance Criteria
+Acceptance Criteria define the specific conditions a feature must meet to be considered complete and accepted by users or stakeholders. They help ensure clarity, guide development and testing, and reduce misunderstandings.
+
+✅ Example: Checkout Feature (Booking System)
+Feature: Customer completes a room booking checkout.
+
+Acceptance Criteria:
+
+User must be logged in.
+
+Booking summary (room, dates, price) is shown.
+
+Valid payment details are required.
+
+Availability is checked before confirming.
+
+Confirmation email is sent after successful booking.
+
+Error message shown if payment fails.
+
