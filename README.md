@@ -105,4 +105,4 @@ The user interface shall be responsive and accessible on desktops, tablets, and 
 The system shall maintain 99.9% uptime to ensure availability for customers at all times.
 
 The system shall comply with applicable privacy and data protection laws (e.g. GDPR) to protect user data.
-![Alt text for the image](path/to/alx-booking-uc.png)
+!alx-booking-uc.png
